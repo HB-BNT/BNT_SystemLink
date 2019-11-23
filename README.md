@@ -1,4 +1,4 @@
-BNT_SystemLink extends the CSPP_Core package of the CS++-Project. 
+BNT_SystemLink extends the CSPP_Core package of the CS++-Project with NI SystemLink features. 
 
 It contains a derived classes of
 - CSPP_ProcessVariables.lvlib:PVConnection.lvclass
